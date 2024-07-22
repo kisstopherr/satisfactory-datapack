@@ -1,1 +1,0 @@
-give @s evoker_spawn_egg[item_name='"Mk 1 Miner"',entity_data={id:"minecraft:bat",Silent:1b,NoAI:1b,Tags:["mk1"]}] 1
