@@ -1,0 +1,1 @@
+give @s sheep_spawn_egg[entity_data={id:"minecraft:area_effect_cloud",Duration:999999999,Tags:["IronNode"]}] 1

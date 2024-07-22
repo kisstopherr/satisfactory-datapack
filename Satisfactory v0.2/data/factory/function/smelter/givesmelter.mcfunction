@@ -1,0 +1,1 @@
+give @s enderman_spawn_egg[item_name='"Smelter"',entity_data={id:"minecraft:bat",Silent:1b,NoAI:1b,Tags:["smelterSPAWN"]}] 1
