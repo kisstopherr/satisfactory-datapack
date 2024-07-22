@@ -1,0 +1,3 @@
+execute if score @e[type=area_effect_cloud,tag=clock,limit=1] mk1 matches 60 run scoreboard players set @e[type=area_effect_cloud,tag=clock,limit=1] mk1 0
+execute if score @e[type=area_effect_cloud,tag=clock,limit=1] mk2 matches 40 run scoreboard players set @e[type=area_effect_cloud,tag=clock,limit=1] mk2 0
+execute if score @e[type=area_effect_cloud,tag=clock,limit=1] mk3 matches 20 run scoreboard players set @e[type=area_effect_cloud,tag=clock,limit=1] mk3 0
